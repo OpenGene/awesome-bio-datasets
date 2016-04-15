@@ -25,6 +25,8 @@
 
 [Gene Ontology (GO)](http://geneontology.org/page/download-annotations)
 
+[Genotype-Tissue Expression (GTEx)](http://www.gtexportal.org)
+
 [Global Biotic Interactions (GloBI)](https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data)
 
 [Harvard Medical School (HMS) LINCS Project](http://lincs.hms.harvard.edu)
@@ -78,6 +80,8 @@
 [The Cancer Genome Atlas (TCGA), available via Broad GDAC](https://gdac.broadinstitute.org/)
 
 [The Catalogue of Life](http://www.catalogueoflife.org/content/annual-checklist-archive)
+
+[The Exome Aggregation Consortium (ExAC)](http://exac.broadinstitute.org)
 
 [The Personal Genome Project](http://www.personalgenomes.org) [PGP](https://my.pgp-hms.org/public_genetic_data)
 
